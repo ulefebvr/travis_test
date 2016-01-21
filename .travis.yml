@@ -4,6 +4,4 @@ os:
 
 language: C
 
-language: python
-
 script: ./run.sh
